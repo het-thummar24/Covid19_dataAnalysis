@@ -69,7 +69,7 @@ Activate the environment
 
 Open the Jupyter Notebook and run:
 
-    covid19_data_analysis.ipynb
+    covid19_dataAnalysis.ipynb
 
 Run all cells to see analysis and visualizations.
 
